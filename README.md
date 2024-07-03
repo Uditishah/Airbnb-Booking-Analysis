@@ -1,4 +1,4 @@
-###Conclusion:
+Conclusion:
 
 We find that Host name Sonder(NYC) has listed highest number of listings in Manhattan followed by Blueground.
 
